@@ -1,0 +1,5 @@
+pandas
+biopython
+tqdm
+spacy
+scispacy

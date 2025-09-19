@@ -1,0 +1,5 @@
+.env.local
+env
+old_plans
+outputs
+pmids.txt
